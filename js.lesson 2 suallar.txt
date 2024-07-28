@@ -1,0 +1,47 @@
+If-Else  ve swich case suallari
+
+1)Ədədin müsbət, mənfi və ya sıfır olmasını müəyyən edən
+ if-else if-else konstruksiyasını yaradın.
+2)
+Müəyyən bir istifadəçi roluna
+ (admin, istifadəçi, qonaq) əsaslanan müxtəlif mesajları
+ qaytaran keçid-case strukturunu yazın.
+3)
+Ədədin cüt və ya tək olduğunu müəyyən edən if-else 
+konstruksiyasını yazın.
+
+Ternary operatoruna aid sual
+
+4)
+Ədədin müsbət və ya mənfi olmasını təyin edən ternary 
+ operatordan istifadə edərək ifadə yazın.
+
+(==, ===, !==, <=, =>) isdifade edilecek suallar:
+5)
+== və === operatorları arasındakı fərqi göstərən numune 
+yazın.
+6)
+!== operatorundan istifadə edərək ədədin 10-a bərabər olmadığını 
+yoxlayan ifadə yaradın.
+7)
+Ədədin 5-dən böyük və 10-dan kiçik olmasını yoxlayan ifadə yazın.
+
+8)
+Əgər varsa istifadəçi adı dəyişənini, əks halda
+ isə "Anonim"i qaytaran nullish coalescing  operatorundan 
+istifadə edin.
+
+Məntiqi Operatorlar (!, ||, &&)
+
+9)Boolean dəyərinin tərsini qaytaran ifadə yazın.
+10)
+Hər iki şərtin doğru olub olmadığını yoxlayan && ifadəsi yaradın.
+11)
+İki şərtdən ən azı birinin doğru olub olmadığını yoxlayan 
+||. ifadə yaratmaq.
+12) Ədədin həm müsbət, həm də cüt olmasını yoxlayan ifadə yazın.
+13)
+İstifadəçi adı və parolun hər ikisinin etibarlı olub olmadığını yoxlayan if-else strukturunu yazın.
+14)
+Ədədin mənfi və ya sıfır olduğunu yoxlayan və müvafiq olaraq mesajı qaytaran switch-case konstruksiyasını yazın.
+
